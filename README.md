@@ -1,4 +1,4 @@
-# ![The Cat]((https://imgur.com/a/t0j7uQl) The Cat Game
+# ![The Cat](https://imgur.com/a/t0j7uQl) The Cat Game
 ### Language: C#
 ### Software: Unity
 
